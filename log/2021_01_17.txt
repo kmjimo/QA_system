@@ -1,0 +1,31 @@
+
+stop_cnt : 0
+実験条件1_drink
+run_time : 20.18928599357605
+stop_cnt : 0
+実験条件3_drink
+run_time : 58.548648834228516
+stop_cnt : 0
+実験条件4_drink
+run_time : 52.28783106803894
+stop_cnt : 0
+実験条件4_drink
+run_time : 54.57559394836426
+stop_cnt : 0
+実験条件4_drink
+run_time : 30.38918399810791
+実験条件1_drink
+run_time : 25.8985378742218
+stop_cnt : 0
+stop_cnt : 0
+実験条件2_drink
+run_time : 32.30768418312073
+stop_cnt : 0
+実験条件4_drink
+run_time : 28.86121106147766
+stop_cnt : 0
+実験条件2_drink
+run_time : 14.362451076507568
+実験条件1_drink
+run_time : 16.580175161361694
+stop_cnt : 0

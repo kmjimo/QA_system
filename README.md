@@ -19,5 +19,6 @@
 | qr_detect.py | カメラからQRコードを検出し、整形 |
 | s2t.py | 音声認識 |
 | qa.py | QAの処理 |
+| qa_2.py | QAの処理 |
 | read.py | 読み上げの処理 |
 | states_1.scxml | 状態遷移の管理 |

@@ -1,0 +1,70 @@
+
+stop_cnt : 0
+実験条件test_1_drink
+run_time : 43.806620359420776
+stop_cnt : 0
+実験条件1_drink
+run_time : 83.11560869216919
+stop_cnt : 0
+実験条件1_snack
+run_time : 61.24012899398804
+stop_cnt : 0
+実験条件2_drink
+run_time : 60.954418897628784
+stop_cnt : 0
+実験条件2_snack
+run_time : 56.18949294090271
+stop_cnt : 0
+実験条件3_drink
+run_time : 121.71557593345642
+stop_cnt : 0
+実験条件3_snack
+run_time : 78.78507399559021
+stop_cnt : 0
+実験条件4_drink
+run_time : 78.76387906074524
+stop_cnt : 0
+実験条件4_snack
+run_time : 102.35307908058167
+stop_cnt : 0
+実験条件test_2_drink
+run_time : 8.713602066040039
+stop_cnt : 0
+実験条件test_2_drink
+run_time : 256.88129782676697
+stop_cnt : 0
+実験条件5_drink
+run_time : 185.64173984527588
+stop_cnt : 0
+実験条件5_snack
+run_time : 209.2962028980255
+stop_cnt : 0
+実験条件6_drink
+run_time : 47.60106587409973
+stop_cnt : 0
+実験条件6_snack
+run_time : 40.662156105041504
+stop_cnt : 0
+実験条件7_drink
+run_time : 45.33595013618469
+stop_cnt : 0
+実験条件7_snack
+run_time : 22.957841157913208
+stop_cnt : 0
+実験条件1_drink
+run_time : 79.95110130310059
+stop_cnt : 0
+実験条件1_snack
+run_time : 84.23616003990173
+stop_cnt : 0
+実験条件5_snack
+run_time : 41.749274015426636
+stop_cnt : 0
+実験条件5_snack
+run_time : 63.63810610771179
+stop_cnt : 0
+実験条件6_snack
+run_time : 20.36005997657776
+stop_cnt : 0
+実験条件5_snack
+run_time : 22.039329051971436
